@@ -830,8 +830,17 @@ blockquote {
   text-align: center;
   font-size: 24px;
 }
-#content5-g .mbr-section-title {
-  font-size: 48px;
+#testimonials1-r .card-block p {
+  font-size: 15px;
+}
+#features10-f .lead {
+  color: #ffffff;
+}
+#features10-f .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features10-f .mbr-section-title {
+  color: #ffffff;
 }
 #features3-d .mbr-section-title {
   font-weight: 700;
@@ -843,12 +852,11 @@ blockquote {
   color: #fff;
   font-size: 30px;
 }
-#features10-f .lead {
-  color: #ffffff;
+#footer1-v .mbr-section-subtitle,
+#footer1-v .mbr-section-text {
+  color: #fff;
 }
-#features10-f .mbr-section-subtitle {
-  text-transform: uppercase;
-}
-#features10-f .mbr-section-title {
-  color: #ffffff;
+#footer1-v .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
 }
