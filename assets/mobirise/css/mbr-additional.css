@@ -513,9 +513,6 @@ textarea,
 .mbr-gallery-filter li:hover {
   color: #f39c12;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
@@ -723,7 +720,7 @@ blockquote {
   color: #ecf0f1;
 }
 #slider-5 .btn {
-  font-size: 14px;
+  font-size: 16px;
 }
 #slider-5 .mbr-section-text {
   font-size: 25px;
@@ -830,8 +827,18 @@ blockquote {
   text-align: center;
   font-size: 24px;
 }
-#testimonials1-r .card-block p {
-  font-size: 15px;
+#header7-w .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #000000;
+  font-size: 20px;
+}
+#header7-w .mbr-section-text {
+  color: #000000;
+  font-size: 20px;
+}
+#header7-w .mbr-section-title {
+  color: #ffffff;
+  font-weight: bold;
 }
 #features10-f .lead {
   color: #ffffff;
@@ -852,11 +859,11 @@ blockquote {
   color: #fff;
   font-size: 30px;
 }
-#footer1-v .mbr-section-subtitle,
-#footer1-v .mbr-section-text {
+#footer1-11 .mbr-section-subtitle,
+#footer1-11 .mbr-section-text {
   color: #fff;
 }
-#footer1-v .mbr-section-subtitle {
+#footer1-11 .mbr-section-subtitle {
   margin-bottom: 20px;
   margin-top: 0;
 }

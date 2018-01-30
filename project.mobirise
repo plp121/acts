@@ -18,7 +18,7 @@
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#f3c82e",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 32,
+    "uniqCompNum": 38,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png"
   },
@@ -66,28 +66,28 @@
                 "overlay": true,
                 "overlayOpacity": "0.6",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">ทำไมต้อง ACTS?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#features2-c\" data-toolbar=\"-mbrBtnMove\">เรียนแล้วได้อะไรบ้าง?</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">ทำไมต้อง ACTS?</a> ",
                 "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
                 "contentAlign": "center",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
+                "active": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "จะดีมั๊ยถ้าลูกได้ใบประกาศนียบัตร 2 ใบพร้อมกัน ?",
+                "title": "จะดีมั๊ยถ้าลูกเก่งภาษาพร้อมเอาตัวรอดได้ ?",
                 "overlay": true,
                 "overlayOpacity": "0.4",
-                "text": "ขณะที่ลูกเรียนหลักสูตรระดับประถมและมัธยมศึกษาของไทย สามารถรับใบประกาศนียบัตรจากโรงเรียนและหลักสูตรจากระบบอเมริกัน",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features10-f\" data-toolbar=\"-mbrBtnMove\">เรื่องราวทั้งหมด</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
                 "contentAlign": "center",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -116,7 +116,7 @@
               "color": "#ecf0f1"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "16px"
             },
             ".mbr-section-text": {
               "font-size": "25px",
@@ -458,10 +458,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/246x0w-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "http://line.me/ti/p/%40ypo5095q",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -618,145 +620,60 @@
         },
         {
           "_styles": {
-            ".card-block p": {
-              "font-size": "15px"
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-weight": "bold"
             }
           },
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "showBullets": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#036781",
-            "overlayOpacity": "0.8",
-            "visibleSlides": "4",
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/mbr-213x320.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/face2.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/face3.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/face4.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              }
-            ],
-            "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
-            "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
           },
-          "title": "คอร์สเรียนของเรา",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1618x1080.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "English as Second language&nbsp;<br>(ESL)",
+          "subtitle": "อยากรู้มัยว่าภาษาอังกฤษของเราอยู่ระดับไหน",
+          "text": "หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน<br>ทศสอบ <b>ESL Level </b>พร้อมให้คำปรึกษาในการพัฒนา ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-r"
+          "_name": "header7",
+          "_anchor": "header7-w"
         },
         {
           "_styles": {
@@ -779,8 +696,8 @@
             "bgText": "About",
             "showButtons": true,
             "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
             "parallax": true,
@@ -804,10 +721,10 @@
           },
           "title1": "Bootstrap 4",
           "title2": "About us",
-          "title3": "Mobirise",
+          "title3": "About<br>\"ACTS\"",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework. One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you. Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely. Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app. Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\">Learn More &nbsp;&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "caption1": "ในฐานะที่เป็นคุณพ่อลูกสอง ผมก็เหมือนคุณพ่อทั่วไปที่รักลูก และต้องการให้สิ่งที่ดีที่สุดให้กับลูกๆ เท่าที่ความสามารถจะทำได้ โดยเฉพาะเรื่องการศึกษา เพราะเชื่อว่า การศึกษามีความสำคัญกับโอกาสต่างๆ ที่จะเข้ามาในชีวิตลูกๆ และ อนาคตของลูกๆ จะประสบความสำเร็จหรือไม่นั่นการศึกษาก็เป็นส่วนหนึ่งที่สำคัญ \n<br>สำหรับผมแล้ว ความหมายของการศึกษานั่น ผมแบ่งเป็น 2 ส่วนหลักๆ คือ ศึกษาในด้านทักษะการใช้ชีวิต และ ความรู้วิชาการ\n<br>เมื่อก่อนผมยังไม่ได้เห็นความสำคัญของการมีทักษะการใช้ชีวิต จึงให้ความสำคัญด้านวิชาการเพียงอย่างเดียว ผมมองว่า “ภาษา” (ในที่นี่ผมหมายถึงภาษาอังกฤษและจีน) เป็นใบเบิกทางของความรู้ที่มีอยู่ทั่วโลก ดังนั่น “โรงเรียนนานาชาติ”  จึงเป็นทางเลือกที่ผมคิดว่าเหมาะสมแล้ว และให้ลูกคนโตเรียนต่อเนื่องมา 6 ปี ซึ่งก็เป็นค่าใช้จ่ายที่ไม่น้อยเลยทีเดียว และการที่ได้อยู่ใน โรงเรียนนานาชาติมานาน ก็เริ่มจะรู้ว่า โรงเรียนนานาชาติในไทย แต่ละที่ก็จะมีมาตรฐานหลักสูตรการเรียนการสอนที่ต่างกันออกไป ทำให้เกิดคำถามขึ้นมาว่า “ลูกเราจบโรงเรียนนานาชาติในไทย จะได้การยอมรับจากเจ้าของหลักสูตรนานาชาติแท้ๆ (เช่นระบบอเมริกัน ระบบอังกฤษ หรือ ระบบสิงคโปร์) มากน้อยเพียงใด”   หากไม่ได้รับการยอมรับเนื่องจากเนื่องจากเหตุผลใดๆ ก็ตาม การลงทุนให้ลูกๆ ที่ผ่านมามันคุ้มค่าแล้วหรือไม่ \n<br>พอเวลาผ่านไป ผมก็ได้เรียนรู้การใช้ชีวิตมากขึ้น ได้เปลี่ยน Mindset หลายๆ อย่าง จึงทำให้เห็นความสำคัญของการมีทักษะการใช้ชีวิตว่าเป็นสิ่งที่จำเป็นลำดับต้นๆ เลยก็ว่าได้ ได้ไปเยี่ยมชม โรงเรียนระบบไทยแนวบูรณาการ ที่เน้นฝึกทักษะการใช้ชีวิต\n<br>จึงเกิดความรู้สึก “รักพี่เสียดายน้อง” \n<br><br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>อ่านต่อ &nbsp;</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -981,10 +898,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/246x0w-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "http://line.me/ti/p/%40ypo5095q",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1018,7 +937,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-v"
+          "_anchor": "footer1-11"
         }
       ]
     }
