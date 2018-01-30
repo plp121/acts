@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 48,
+    "uniqCompNum": 59,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png"
   },
@@ -456,7 +456,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Thai</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features4-1e\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#testimonials3-1k\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-1i\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Thai</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials3-16\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -969,6 +969,944 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1a"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Eng",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "contentAlign": "center",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "จะดีมั๊ยถ้าลูกเก่งภาษาพร้อมเอาตัวรอดได้ ?",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">เรื่องราวทั้งหมด</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "จะดีมั๊ยถ้าลูกคุณเก่งภาษาอังกฤษ เหมือนเจ้าของภาษา?",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">ทำไมต้อง ACTS?</a> ",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "จะดีมัยถ้าลูกได้เรียนรู้ ทักษะการใช้ชีวิตมากขึ้น?&nbsp;",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "text": "เพิ่มการพึ่งพาตัวเอง การรับผิดชอบ และการบริหารเวลา",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a>  "
+              }
+            ]
+          },
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
+          "articleLayout": false,
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ecf0f1"
+            },
+            ".btn": {
+              "font-size": "16px"
+            },
+            ".mbr-section-text": {
+              "font-size": "25px",
+              "color": "#f3c82e"
+            }
+          },
+          "_anchor": "slider-1c"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "text-transform": "uppercase",
+              "margin-top": "40px"
+            },
+            "H1": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f3c82e",
+            "bgText": "ACTS",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#036781",
+            "bgTextSize": "250",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "\"Learning today, leading tomorrow\"",
+          "text": "•\tแห่งเดียวในไทย ที่สามารถจัดแผนการเรียนส่วนบุคคลที่เหมาะกับลูกคุณมากที่สุด\n<br>•\tแห่งเดียวในไทยที่ร่วมมือกับ <b>JT King Academy &amp; Western Christian Academy</b> (ซึ่งได้การรับรอง) ที่สามารถออกประกาศนียบัตร <b>High School</b> ของอเมริกาได้\n<br>•\tเรามีครูที่มีประสบการณ์การสอน และการวางระบบหลักสูตรจาก อเมริกามากกว่า <b>20</b> ปี มาช่วยเสริมสร้างทักษะภาษาอังกฤษและทักษะชีวิต ให้ลูกคุณเพื่อใช้ในการเรียนรู้ตลอดชีวิต&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">คลิกดูเหตุผลเลย</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "animated-bg1",
+          "_anchor": "animated-bg1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff",
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#51b9bc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#036781",
+            "overlayOpacity": 0.9
+          },
+          "title": "\"ACTS\" ช่วยลูกคุณได้เพราะ",
+          "title1": "Bootstrap 4",
+          "subtitle1": "แห่งเดียวในไทย ที่สามารถจัดแผนการเรียนส่วนบุคคลที่เหมาะกับลูกคุณมากที่สุด",
+          "caption1": "",
+          "title2": "Responsive",
+          "subtitle2": "แห่งเดียวในไทยที่ร่วมมือกับ JT King Academy &amp; Western Christian Academy (ซึ่งได้การรับรอง) ที่สามารถออกประกาศนียบัตร High School ของอเมริกาได้",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "เรามีครูที่มีประสบการณ์การสอน และการวางระบบหลักสูตรจาก อเมริกามากกว่า 20 ปี มาช่วยเสริมสร้างทักษะภาษาอังกฤษและทักษะชีวิต ให้ลูกคุณเพื่อใช้ในการเรียนรู้ตลอดชีวิต",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary\">learn more</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-1e"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "kenburns",
+            "theme": "boundary",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-11-1350x900.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-11-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-11-72x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-1350x900.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-8-72x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-10-1350x900.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-10-72x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1275x900.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-1531x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-68x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1355x900.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-1f"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f4c711!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features4-1e\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#testimonials3-1k\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-1i\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Thai</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials3-16\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/246x0w-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://line.me/ti/p/%40ypo5095q",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACTS&nbsp;</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "text-align": "center",
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff",
+              "text-align": "center",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3498db",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f3c82e",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "pin",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title": "สิ่งที่นักเรียน ACTS จะได้",
+          "title1": "Bootstrap 4",
+          "subtitle1": "ทักษะภาษาอังกฤษ (ฟัง/พูด/อ่าน/เขียน) เก่งขึ้น",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "ได้เรียนหลักสูตรที่เหมาะกับผู้เรียนโดยเฉพาะ",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "ครูและเจ้าหน้าที่ดูแลนักเรียนแต่ละคนอย่างใกล้ชิด&nbsp;",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "สามารถกำหนดระยะเวลาในการเรียนแต่ละระดับชั้นได้ด้วยตัวเอง&nbsp;",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "เพิ่มทักษะการพึ่งพาตัวเอง การบริหารเวลาและความรับผิดชอบ",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "มีสถานที่และตารางให้เลือกเรียน",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-1h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-weight": "bold"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#036781",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1618x1080.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "English as Second language&nbsp;<br>(ESL)",
+          "subtitle": "อยากรู้ว่าภาษาอังกฤษอยู่ระดับไหน",
+          "text": "หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน<br>ทศสอบ <b>ESL Level </b>พร้อมให้คำปรึกษาในการพัฒนา ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">รายละเอียด</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-1i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2ecc71",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#666666",
+            "overlayOpacity": "0.8"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "book",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "simple-line-icons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "airplane",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "book-write",
+              "family": "icon54-v3",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "teacher",
+              "family": "iconsMind",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "บริการของเรา",
+          "title1": "Bootstrap 4",
+          "subtitle1": "การสอน",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "การติว",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "ที่ปรึกษาศึกษาต่อต่างประเทศ",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "ที่ปรึกษาวางแผนหลักสูตร",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "โค้ชการสอนสำหรับครูสอนภาษาอังกฤษ",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgCardImage": "@PROJECT_PATH@/assets/images/tenby-2816820-1920-1473x1920.jpg",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grass.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#233f5b",
+            "overlayOpacity": "0.7"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "class": ""
+            }
+          },
+          "title": "พีระพงศ์ ว่องกุลวัฒน์",
+          "subtitle": "ผู้ก่อตั้ง <b>ACTS</b>",
+          "text": "เหตุผลที่ <b>ACTS</b> ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง <b>2</b> อย่างโดยไม่ต้องจำใจเลือก\n<br><br>\"เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน\" &nbsp;&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">รายละเอียด</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-1k"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Accordion FAQ",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseOneaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>ความเป็นมาของ \"ACTS\"</a>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseTwoaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">คอร์สเรียน</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseThreeaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseThree\">การสอบวัดระดับ ESL</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>ในฐานะที่เป็นคุณพ่อลูกสอง ผมก็เหมือนคุณพ่อทั่วไปที่รักลูก และต้องการให้สิ่งที่ดีที่สุดให้กับลูกๆ เท่าที่ความสามารถจะทำได้ โดยเฉพาะเรื่องการศึกษา เพราะเชื่อว่า การศึกษามีความสำคัญกับโอกาสต่างๆ ที่จะเข้ามาในชีวิตลูกๆ และ อนาคตของลูกๆ จะประสบความสำเร็จหรือไม่นั่นการศึกษาก็เป็นส่วนหนึ่งที่สำคัญ \n</p><p>สำหรับผมแล้ว ความหมายของการศึกษานั่น ผมแบ่งเป็น 2 ส่วนหลักๆ คือ ศึกษาในด้านทักษะการใช้ชีวิต และ ความรู้วิชาการ \n</p><p>เมื่อก่อนผมยังไม่ได้เห็นความสำคัญของการมีทักษะการใช้ชีวิต จึงให้ความสำคัญด้านวิชาการเพียงอย่างเดียว ผมมองว่า “ภาษา” (ในที่นี่ผมหมายถึงภาษาอังกฤษและจีน) เป็นใบเบิกทางของความรู้ที่มีอยู่ทั่วโลก ดังนั่น “โรงเรียนนานาชาติ” จึงเป็นทางเลือกที่ผมคิดว่าเหมาะสมแล้ว และให้ลูกคนโตเรียนต่อเนื่องมา 6 ปี ซึ่งก็เป็นค่าใช้จ่ายที่ไม่น้อยเลยทีเดียว และการที่ได้อยู่ใน โรงเรียนนานาชาติมานาน ก็เริ่มจะรู้ว่า โรงเรียนนานาชาติในไทย แต่ละที่ก็จะมีมาตรฐานหลักสูตรการเรียนการสอนที่ต่างกันออกไป ทำให้เกิดคำถามขึ้นมาว่า “ลูกเราจบโรงเรียนนานาชาติในไทย จะได้การยอมรับจากเจ้าของหลักสูตรนานาชาติแท้ๆ (เช่นระบบอเมริกัน ระบบอังกฤษ หรือ ระบบสิงคโปร์) มากน้อยเพียงใด” หากไม่ได้รับการยอมรับเนื่องจากเนื่องจากเหตุผลใดๆ ก็ตาม การลงทุนให้ลูกๆ ที่ผ่านมามันคุ้มค่าแล้วหรือไม่ \n</p><p>พอเวลาผ่านไป ผมก็ได้เรียนรู้การใช้ชีวิตมากขึ้น ได้เปลี่ยน Mindset หลายๆ อย่าง จึงทำให้เห็นความสำคัญของการมีทักษะการใช้ชีวิตว่าเป็นสิ่งที่จำเป็นลำดับต้นๆ เลยก็ว่าได้ ได้ไปเยี่ยมชม โรงเรียนระบบไทยแนวบูรณาการ ที่เน้นฝึกทักษะการใช้ชีวิต \n</p><p>จึงเกิดความรู้สึก “รักพี่เสียดายน้อง” \n</p><p>ทักษะการใช้ชีวิตมีความสำคัญก็จริง แต่ ภาษาก็มีความสำคัญไม่แพ้กัน อยากได้ทั้ง สองอย่างในเวลาเดียวกัน แต่เท่าที่ดูตอนนี้ ยังไม่มีโรงเรียนไหน ตอบโจทย์ตรงนี้ได้เลย จะให้เลือกอย่างใดอย่างหนึ่งก็เลือกไม่ถูกจริงๆ คือต้องบอกว่าไม่อยากเลือก แต่ต้องการทั้ง 2 อย่างพร้อมๆ กันเลย เพื่ออนาคตที่ดีของลูกๆ \n</p><p>ยุค IT ทำให้โลกกำลังเปลี่ยนไปอย่างรวดเร็ว ระบบการศึกษาก็เช่นกัน การเรียนการสอนแบบ online เข้ามามีบทบาทมากขึ้นเรื่อยๆ ส่วนตัวมองว่า ภายใน 10 ปี ระบบการศึกษาไทยจะมีการปฏิวัติใหม่ (ความจริงคือระบบการศึกษาในประเทศที่พัฒนาได้เปลี่ยนแปลงไปแล้ว) \n</p><p>ยุคนี้เราสามารถเข้าเรียนหลักสูตรการเรียนการสอน (เช่นหลักสูตรอเมริกัน) ผ่าน online (โดยมีครูที่มีประสบการณ์คอยเป็นพี่เลี้ยง) ได้ในไทยโดยใช้ช่วงนอกเวลาเรียน และเรียนจบแล้ว ได้รับการยอมรับเหมือนเรียนจบที่ โรงเรียนใน อเมริกา ด้วยค่าเรียนที่ถูกกว่าโรงเรียนนานาชาติในไทย \n</p><p>นี้คือเหตุผลที่ ACTS ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง 2 อย่างโดยไม่ต้องจำใจเลือก \n</p><p>เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน &nbsp;&nbsp;</p>",
+          "text2": "<p>•\tEnglish as Second language (ESL level 1-5) หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน \r</p><p>•\tการเรียน ระดับประถม มัธยมตามหลักสูตรอเมริกัน\r</p><p>•\tภาษาอังกฤษ สำหรับธุรกิจ \r</p><p>•\tภาษาอังกฤษสำหรับ อาชีพเฉพาะทาง\r</p><p>•\tภาษาอังกฤษสำหรับ การเตรียมสอบ ( Toeic / Toefl )\r</p><p>•\tภาษาอังกฤษ “ตามความต้องการ” (Tailor Made)\r</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_styles": {
+            "P": {
+              "color": "#ecf0f1",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "accordion1-1l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1000px-f-icon.svg-1-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/acts.educenter/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "<a href=\"index.html#features4-2\">WHY aCTS</a>",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "<a href=\"index.html#accordion1-17\">ABOUT ACTS</a>",
+          "text21": "",
+          "text22": "",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "<a href=\"index.html#header7-w\">ENGLISH SECOND LANGUAGE (ESL)</a>",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "",
+          "text": "Copyright (c) 2018 ACTS.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
         }
       ]
     }
