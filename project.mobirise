@@ -6,11 +6,11 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
+        "primaryColor": "#f4c711",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
-        "infoColor": "#f3c82e",
+        "infoColor": "#f39c12",
         "warningColor": "#036781",
         "dangerColor": "#e74c3c",
         "titleFont": "Arvo",
@@ -23,12 +23,13 @@
       "additionalSetColors": [
         "#f3c82e",
         "#036781",
-        "#073b6a"
+        "#073b6a",
+        "#f4c711"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 38,
+    "uniqCompNum": 48,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png"
   },
@@ -54,22 +55,6 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
-                "contentAlign": "center",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "จะดีมั๊ยถ้าลูกคุณเก่งภาษาอังกฤษ เหมือนเจ้าของภาษา?",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">ทำไมต้อง ACTS?</a> ",
-                "overlayColor": "#000000"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
                 "contentAlign": "center",
                 "active": true,
@@ -82,7 +67,23 @@
                 "overlay": true,
                 "overlayOpacity": "0.4",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features10-f\" data-toolbar=\"-mbrBtnMove\">เรื่องราวทั้งหมด</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">เรื่องราวทั้งหมด</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "จะดีมั๊ยถ้าลูกคุณเก่งภาษาอังกฤษ เหมือนเจ้าของภาษา?",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">ทำไมต้อง ACTS?</a> ",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
@@ -132,7 +133,7 @@
               "margin-top": "40px"
             },
             "H1": {
-              "font-size": "60px",
+              "font-size": "36px",
               "text-align": "center",
               "color": "#000000"
             },
@@ -144,8 +145,8 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": false,
@@ -163,7 +164,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "\"ACTS\" ช่วยลูกคุณได้เพราะ",
+          "title": "\"Learning today, leading tomorrow\"",
           "text": "•\tแห่งเดียวในไทย ที่สามารถจัดแผนการเรียนส่วนบุคคลที่เหมาะกับลูกคุณมากที่สุด\n<br>•\tแห่งเดียวในไทยที่ร่วมมือกับ <b>JT King Academy &amp; Western Christian Academy</b> (ซึ่งได้การรับรอง) ที่สามารถออกประกาศนียบัตร <b>High School</b> ของอเมริกาได้\n<br>•\tเรามีครูที่มีประสบการณ์การสอน และการวางระบบหลักสูตรจาก อเมริกามากกว่า <b>20</b> ปี มาช่วยเสริมสร้างทักษะภาษาอังกฤษและทักษะชีวิต ให้ลูกคุณเพื่อใช้ในการเรียนรู้ตลอดชีวิต&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">คลิกดูเหตุผลเลย</a>",
           "alias": "colorm/components",
@@ -176,17 +177,18 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "font-weight": "700"
+              "font-weight": "700",
+              "font-size": "60px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
               "letter-spacing": "2px",
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "19px"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showImages": true,
             "showTitles": true,
             "ShowTexts": false,
@@ -204,10 +206,10 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#1abc9c",
+            "overlayColor": "#036781",
             "overlayOpacity": 0.9
           },
-          "title": "Features",
+          "title": "\"ACTS\" ช่วยลูกคุณได้เพราะ",
           "title1": "Bootstrap 4",
           "subtitle1": "แห่งเดียวในไทย ที่สามารถจัดแผนการเรียนส่วนบุคคลที่เหมาะกับลูกคุณมากที่สุด",
           "caption1": "",
@@ -438,7 +440,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#f4c711!important"
             }
           },
           "_params": {
@@ -454,16 +456,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Thai</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/246x0w-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/246x0w-1-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://line.me/ti/p/%40ypo5095q",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -505,7 +506,7 @@
             "columns": "6",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#3498db",
             "bgVideoRadio": false,
@@ -513,8 +514,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#27ae60",
-            "overlayOpacity": 0.9
+            "overlayColor": "#f3c82e",
+            "overlayOpacity": "0.7"
           },
           "media1": {
             "iconFont": {
@@ -644,7 +645,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2980b9",
+            "bgColor": "#036781",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -665,72 +666,15 @@
             }
           },
           "title": "English as Second language&nbsp;<br>(ESL)",
-          "subtitle": "อยากรู้มัยว่าภาษาอังกฤษของเราอยู่ระดับไหน",
+          "subtitle": "อยากรู้ว่าภาษาอังกฤษอยู่ระดับไหน",
           "text": "หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน<br>ทศสอบ <b>ESL Level </b>พร้อมให้คำปรึกษาในการพัฒนา ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">รายละเอียด</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header7",
           "_anchor": "header7-w"
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitles": false,
-            "ShowTexts": true,
-            "showImages": true,
-            "showImgTitles": true,
-            "showBgText": true,
-            "bgText": "About",
-            "showButtons": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#615e5c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#073b6a",
-            "overlayOpacity": "0.8"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/forest.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "title2": "About us",
-          "title3": "About<br>\"ACTS\"",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "ในฐานะที่เป็นคุณพ่อลูกสอง ผมก็เหมือนคุณพ่อทั่วไปที่รักลูก และต้องการให้สิ่งที่ดีที่สุดให้กับลูกๆ เท่าที่ความสามารถจะทำได้ โดยเฉพาะเรื่องการศึกษา เพราะเชื่อว่า การศึกษามีความสำคัญกับโอกาสต่างๆ ที่จะเข้ามาในชีวิตลูกๆ และ อนาคตของลูกๆ จะประสบความสำเร็จหรือไม่นั่นการศึกษาก็เป็นส่วนหนึ่งที่สำคัญ \n<br>สำหรับผมแล้ว ความหมายของการศึกษานั่น ผมแบ่งเป็น 2 ส่วนหลักๆ คือ ศึกษาในด้านทักษะการใช้ชีวิต และ ความรู้วิชาการ\n<br>เมื่อก่อนผมยังไม่ได้เห็นความสำคัญของการมีทักษะการใช้ชีวิต จึงให้ความสำคัญด้านวิชาการเพียงอย่างเดียว ผมมองว่า “ภาษา” (ในที่นี่ผมหมายถึงภาษาอังกฤษและจีน) เป็นใบเบิกทางของความรู้ที่มีอยู่ทั่วโลก ดังนั่น “โรงเรียนนานาชาติ”  จึงเป็นทางเลือกที่ผมคิดว่าเหมาะสมแล้ว และให้ลูกคนโตเรียนต่อเนื่องมา 6 ปี ซึ่งก็เป็นค่าใช้จ่ายที่ไม่น้อยเลยทีเดียว และการที่ได้อยู่ใน โรงเรียนนานาชาติมานาน ก็เริ่มจะรู้ว่า โรงเรียนนานาชาติในไทย แต่ละที่ก็จะมีมาตรฐานหลักสูตรการเรียนการสอนที่ต่างกันออกไป ทำให้เกิดคำถามขึ้นมาว่า “ลูกเราจบโรงเรียนนานาชาติในไทย จะได้การยอมรับจากเจ้าของหลักสูตรนานาชาติแท้ๆ (เช่นระบบอเมริกัน ระบบอังกฤษ หรือ ระบบสิงคโปร์) มากน้อยเพียงใด”   หากไม่ได้รับการยอมรับเนื่องจากเนื่องจากเหตุผลใดๆ ก็ตาม การลงทุนให้ลูกๆ ที่ผ่านมามันคุ้มค่าแล้วหรือไม่ \n<br>พอเวลาผ่านไป ผมก็ได้เรียนรู้การใช้ชีวิตมากขึ้น ได้เปลี่ยน Mindset หลายๆ อย่าง จึงทำให้เห็นความสำคัญของการมีทักษะการใช้ชีวิตว่าเป็นสิ่งที่จำเป็นลำดับต้นๆ เลยก็ว่าได้ ได้ไปเยี่ยมชม โรงเรียนระบบไทยแนวบูรณาการ ที่เน้นฝึกทักษะการใช้ชีวิต\n<br>จึงเกิดความรู้สึก “รักพี่เสียดายน้อง” \n<br><br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>อ่านต่อ &nbsp;</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features10",
-          "_anchor": "features10-f"
         },
         {
           "_styles": {
@@ -871,6 +815,93 @@
           "_anchor": "features3-d"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgCardImage": "@PROJECT_PATH@/assets/images/tenby-2816820-1920-1473x1920.jpg",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grass.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#233f5b",
+            "overlayOpacity": "0.7"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "class": ""
+            }
+          },
+          "title": "พีระพงศ์ ว่องกุลวัฒน์",
+          "subtitle": "ผู้ก่อตั้ง <b>ACTS</b>",
+          "text": "เหตุผลที่ <b>ACTS</b> ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง <b>2</b> อย่างโดยไม่ต้องจำใจเลือก\n<br><br>\"เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน\" &nbsp;&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">รายละเอียด</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-16"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Accordion FAQ",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseOneaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>ความเป็นมาของ \"ACTS\"</a>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseTwoaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">คอร์สเรียน</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseThreeaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseThree\">การสอบวัดระดับ ESL</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>ในฐานะที่เป็นคุณพ่อลูกสอง ผมก็เหมือนคุณพ่อทั่วไปที่รักลูก และต้องการให้สิ่งที่ดีที่สุดให้กับลูกๆ เท่าที่ความสามารถจะทำได้ โดยเฉพาะเรื่องการศึกษา เพราะเชื่อว่า การศึกษามีความสำคัญกับโอกาสต่างๆ ที่จะเข้ามาในชีวิตลูกๆ และ อนาคตของลูกๆ จะประสบความสำเร็จหรือไม่นั่นการศึกษาก็เป็นส่วนหนึ่งที่สำคัญ \n</p><p>สำหรับผมแล้ว ความหมายของการศึกษานั่น ผมแบ่งเป็น 2 ส่วนหลักๆ คือ ศึกษาในด้านทักษะการใช้ชีวิต และ ความรู้วิชาการ \n</p><p>เมื่อก่อนผมยังไม่ได้เห็นความสำคัญของการมีทักษะการใช้ชีวิต จึงให้ความสำคัญด้านวิชาการเพียงอย่างเดียว ผมมองว่า “ภาษา” (ในที่นี่ผมหมายถึงภาษาอังกฤษและจีน) เป็นใบเบิกทางของความรู้ที่มีอยู่ทั่วโลก ดังนั่น “โรงเรียนนานาชาติ” จึงเป็นทางเลือกที่ผมคิดว่าเหมาะสมแล้ว และให้ลูกคนโตเรียนต่อเนื่องมา 6 ปี ซึ่งก็เป็นค่าใช้จ่ายที่ไม่น้อยเลยทีเดียว และการที่ได้อยู่ใน โรงเรียนนานาชาติมานาน ก็เริ่มจะรู้ว่า โรงเรียนนานาชาติในไทย แต่ละที่ก็จะมีมาตรฐานหลักสูตรการเรียนการสอนที่ต่างกันออกไป ทำให้เกิดคำถามขึ้นมาว่า “ลูกเราจบโรงเรียนนานาชาติในไทย จะได้การยอมรับจากเจ้าของหลักสูตรนานาชาติแท้ๆ (เช่นระบบอเมริกัน ระบบอังกฤษ หรือ ระบบสิงคโปร์) มากน้อยเพียงใด” หากไม่ได้รับการยอมรับเนื่องจากเนื่องจากเหตุผลใดๆ ก็ตาม การลงทุนให้ลูกๆ ที่ผ่านมามันคุ้มค่าแล้วหรือไม่ \n</p><p>พอเวลาผ่านไป ผมก็ได้เรียนรู้การใช้ชีวิตมากขึ้น ได้เปลี่ยน Mindset หลายๆ อย่าง จึงทำให้เห็นความสำคัญของการมีทักษะการใช้ชีวิตว่าเป็นสิ่งที่จำเป็นลำดับต้นๆ เลยก็ว่าได้ ได้ไปเยี่ยมชม โรงเรียนระบบไทยแนวบูรณาการ ที่เน้นฝึกทักษะการใช้ชีวิต \n</p><p>จึงเกิดความรู้สึก “รักพี่เสียดายน้อง” \n</p><p>ทักษะการใช้ชีวิตมีความสำคัญก็จริง แต่ ภาษาก็มีความสำคัญไม่แพ้กัน อยากได้ทั้ง สองอย่างในเวลาเดียวกัน แต่เท่าที่ดูตอนนี้ ยังไม่มีโรงเรียนไหน ตอบโจทย์ตรงนี้ได้เลย จะให้เลือกอย่างใดอย่างหนึ่งก็เลือกไม่ถูกจริงๆ คือต้องบอกว่าไม่อยากเลือก แต่ต้องการทั้ง 2 อย่างพร้อมๆ กันเลย เพื่ออนาคตที่ดีของลูกๆ \n</p><p>ยุค IT ทำให้โลกกำลังเปลี่ยนไปอย่างรวดเร็ว ระบบการศึกษาก็เช่นกัน การเรียนการสอนแบบ online เข้ามามีบทบาทมากขึ้นเรื่อยๆ ส่วนตัวมองว่า ภายใน 10 ปี ระบบการศึกษาไทยจะมีการปฏิวัติใหม่ (ความจริงคือระบบการศึกษาในประเทศที่พัฒนาได้เปลี่ยนแปลงไปแล้ว) \n</p><p>ยุคนี้เราสามารถเข้าเรียนหลักสูตรการเรียนการสอน (เช่นหลักสูตรอเมริกัน) ผ่าน online (โดยมีครูที่มีประสบการณ์คอยเป็นพี่เลี้ยง) ได้ในไทยโดยใช้ช่วงนอกเวลาเรียน และเรียนจบแล้ว ได้รับการยอมรับเหมือนเรียนจบที่ โรงเรียนใน อเมริกา ด้วยค่าเรียนที่ถูกกว่าโรงเรียนนานาชาติในไทย \n</p><p>นี้คือเหตุผลที่ ACTS ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง 2 อย่างโดยไม่ต้องจำใจเลือก \n</p><p>เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน &nbsp;&nbsp;</p>",
+          "text2": "<p>•\tEnglish as Second language (ESL level 1-5) หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน \r</p><p>•\tการเรียน ระดับประถม มัธยมตามหลักสูตรอเมริกัน\r</p><p>•\tภาษาอังกฤษ สำหรับธุรกิจ \r</p><p>•\tภาษาอังกฤษสำหรับ อาชีพเฉพาะทาง\r</p><p>•\tภาษาอังกฤษสำหรับ การเตรียมสอบ ( Toeic / Toefl )\r</p><p>•\tภาษาอังกฤษ “ตามความต้องการ” (Tailor Made)\r</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_anchor": "accordion1-17",
+          "_styles": {
+            "P": {
+              "color": "#ecf0f1",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-subtitle, .mbr-section-text": {
               "color": "#fff"
@@ -884,8 +915,8 @@
             "logo": true,
             "showTitles": true,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -898,10 +929,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/246x0w-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1000px-f-icon.svg-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://line.me/ti/p/%40ypo5095q",
+              "link": "https://www.facebook.com/acts.educenter/",
               "title": "",
               "linkInNewWindow": false
             },
@@ -911,33 +942,33 @@
               "size": 0
             }
           },
-          "title1": "product",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "title1": "<a href=\"index.html#features4-2\">WHY aCTS</a>",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "<a href=\"index.html#accordion1-17\">ABOUT ACTS</a>",
+          "text21": "",
+          "text22": "",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "<a href=\"index.html#header7-w\">ENGLISH SECOND LANGUAGE (ESL)</a>",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "",
+          "text": "Copyright (c) 2018 ACTS.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-11"
+          "_anchor": "footer1-1a"
         }
       ]
     }
