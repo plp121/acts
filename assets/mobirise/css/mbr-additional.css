@@ -866,6 +866,7 @@ blockquote {
 #slider-1c .mbr-section-title {
   text-align: center;
   color: #ecf0f1;
+  font-size: 36px;
 }
 #slider-1c .btn {
   font-size: 16px;
@@ -889,13 +890,13 @@ blockquote {
 }
 #features4-1e .mbr-section-title {
   font-weight: 700;
-  font-size: 60px;
+  font-size: 46px;
 }
 #features4-1e .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
-  font-size: 19px;
+  font-size: 16px;
 }
 #menu-1g .hide-buttons .nav-btn {
   display: none !important;
@@ -974,7 +975,7 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
   text-align: center;
-  font-size: 24px;
+  font-size: 16px;
 }
 #header7-1i .mbr-section-subtitle {
   text-transform: uppercase;
@@ -998,10 +999,6 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
   font-size: 30px;
-}
-#accordion1-1l P {
-  color: #ecf0f1;
-  font-size: 22px;
 }
 #footer1-1m .mbr-section-subtitle,
 #footer1-1m .mbr-section-text {

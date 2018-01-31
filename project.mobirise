@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-24_2328-clone",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png"
   },
@@ -456,7 +456,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features4-1e\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#testimonials3-1k\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-1i\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Thai</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials3-16\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features4-1e\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#testimonials3-1k\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-1i\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ไทย</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials3-16\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -878,13 +878,13 @@
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
           "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseOneaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>ความเป็นมาของ \"ACTS\"</a>",
           "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseTwoaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">คอร์สเรียน</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseThreeaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseThree\">การสอบวัดระดับ ESL</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseThreeaccordion1-17\" aria-expanded=\"false\" aria-controls=\"collapseThree\">การสอบวัดระดับ ESL</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text1": "<p>ในฐานะที่เป็นคุณพ่อลูกสอง ผมก็เหมือนคุณพ่อทั่วไปที่รักลูก และต้องการให้สิ่งที่ดีที่สุดให้กับลูกๆ เท่าที่ความสามารถจะทำได้ โดยเฉพาะเรื่องการศึกษา เพราะเชื่อว่า การศึกษามีความสำคัญกับโอกาสต่างๆ ที่จะเข้ามาในชีวิตลูกๆ และ อนาคตของลูกๆ จะประสบความสำเร็จหรือไม่นั่นการศึกษาก็เป็นส่วนหนึ่งที่สำคัญ \n</p><p>สำหรับผมแล้ว ความหมายของการศึกษานั่น ผมแบ่งเป็น 2 ส่วนหลักๆ คือ ศึกษาในด้านทักษะการใช้ชีวิต และ ความรู้วิชาการ \n</p><p>เมื่อก่อนผมยังไม่ได้เห็นความสำคัญของการมีทักษะการใช้ชีวิต จึงให้ความสำคัญด้านวิชาการเพียงอย่างเดียว ผมมองว่า “ภาษา” (ในที่นี่ผมหมายถึงภาษาอังกฤษและจีน) เป็นใบเบิกทางของความรู้ที่มีอยู่ทั่วโลก ดังนั่น “โรงเรียนนานาชาติ” จึงเป็นทางเลือกที่ผมคิดว่าเหมาะสมแล้ว และให้ลูกคนโตเรียนต่อเนื่องมา 6 ปี ซึ่งก็เป็นค่าใช้จ่ายที่ไม่น้อยเลยทีเดียว และการที่ได้อยู่ใน โรงเรียนนานาชาติมานาน ก็เริ่มจะรู้ว่า โรงเรียนนานาชาติในไทย แต่ละที่ก็จะมีมาตรฐานหลักสูตรการเรียนการสอนที่ต่างกันออกไป ทำให้เกิดคำถามขึ้นมาว่า “ลูกเราจบโรงเรียนนานาชาติในไทย จะได้การยอมรับจากเจ้าของหลักสูตรนานาชาติแท้ๆ (เช่นระบบอเมริกัน ระบบอังกฤษ หรือ ระบบสิงคโปร์) มากน้อยเพียงใด” หากไม่ได้รับการยอมรับเนื่องจากเนื่องจากเหตุผลใดๆ ก็ตาม การลงทุนให้ลูกๆ ที่ผ่านมามันคุ้มค่าแล้วหรือไม่ \n</p><p>พอเวลาผ่านไป ผมก็ได้เรียนรู้การใช้ชีวิตมากขึ้น ได้เปลี่ยน Mindset หลายๆ อย่าง จึงทำให้เห็นความสำคัญของการมีทักษะการใช้ชีวิตว่าเป็นสิ่งที่จำเป็นลำดับต้นๆ เลยก็ว่าได้ ได้ไปเยี่ยมชม โรงเรียนระบบไทยแนวบูรณาการ ที่เน้นฝึกทักษะการใช้ชีวิต \n</p><p>จึงเกิดความรู้สึก “รักพี่เสียดายน้อง” \n</p><p>ทักษะการใช้ชีวิตมีความสำคัญก็จริง แต่ ภาษาก็มีความสำคัญไม่แพ้กัน อยากได้ทั้ง สองอย่างในเวลาเดียวกัน แต่เท่าที่ดูตอนนี้ ยังไม่มีโรงเรียนไหน ตอบโจทย์ตรงนี้ได้เลย จะให้เลือกอย่างใดอย่างหนึ่งก็เลือกไม่ถูกจริงๆ คือต้องบอกว่าไม่อยากเลือก แต่ต้องการทั้ง 2 อย่างพร้อมๆ กันเลย เพื่ออนาคตที่ดีของลูกๆ \n</p><p>ยุค IT ทำให้โลกกำลังเปลี่ยนไปอย่างรวดเร็ว ระบบการศึกษาก็เช่นกัน การเรียนการสอนแบบ online เข้ามามีบทบาทมากขึ้นเรื่อยๆ ส่วนตัวมองว่า ภายใน 10 ปี ระบบการศึกษาไทยจะมีการปฏิวัติใหม่ (ความจริงคือระบบการศึกษาในประเทศที่พัฒนาได้เปลี่ยนแปลงไปแล้ว) \n</p><p>ยุคนี้เราสามารถเข้าเรียนหลักสูตรการเรียนการสอน (เช่นหลักสูตรอเมริกัน) ผ่าน online (โดยมีครูที่มีประสบการณ์คอยเป็นพี่เลี้ยง) ได้ในไทยโดยใช้ช่วงนอกเวลาเรียน และเรียนจบแล้ว ได้รับการยอมรับเหมือนเรียนจบที่ โรงเรียนใน อเมริกา ด้วยค่าเรียนที่ถูกกว่าโรงเรียนนานาชาติในไทย \n</p><p>นี้คือเหตุผลที่ ACTS ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง 2 อย่างโดยไม่ต้องจำใจเลือก \n</p><p>เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน &nbsp;&nbsp;</p>",
           "text2": "<p>•\tEnglish as Second language (ESL level 1-5) หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน \r</p><p>•\tการเรียน ระดับประถม มัธยมตามหลักสูตรอเมริกัน\r</p><p>•\tภาษาอังกฤษ สำหรับธุรกิจ \r</p><p>•\tภาษาอังกฤษสำหรับ อาชีพเฉพาะทาง\r</p><p>•\tภาษาอังกฤษสำหรับ การเตรียมสอบ ( Toeic / Toefl )\r</p><p>•\tภาษาอังกฤษ “ตามความต้องการ” (Tailor Made)\r</p>",
-          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text3": "<p>การทดสอบวัดระดับ <b>ESL</b>   เพื่อให้เราทราบถึงภาษาอังกฤษของนักเรียนนั่นอยู่ในระดับใด <b>(Level 1-5)</b> และนอกจากนั่นยังทำให้เราได้รู้ด้วยว่า นักเรียนมีความถนัด ในทักษะ การฟัง <b>(listening)</b> การพูด<b> (Speaking)</b> การอ่าน <b>(Reading)</b> และการเขียน <b>(Writing)</b> ในแต่ละด้านด้วย\n</p><p>เมื่อเราทราบรายละเอียดทักษะด้านต่างๆ ของนักเรียนแล้ว เราจะสามารถวางแผนแผนการเรียนที่เหมาะสมกับนักเรียนนั่นให้มากที่สุด และ สามารถทดสอบใหม่หลังอีก <b>3-6</b> เดือนเพื่อนำมาเปรียบเทียบความก้าวหน้าต่อไป   \n</p><p><br></p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -942,19 +942,19 @@
               "size": 0
             }
           },
-          "title1": "<a href=\"index.html#features4-2\">WHY aCTS</a>",
+          "title1": "<a href=\"page1.html#features4-1e\">WHY aCTS</a>",
           "text11": "",
           "text12": "",
           "text13": "",
           "text14": "",
           "text15": "",
-          "title2": "<a href=\"index.html#accordion1-17\">ABOUT ACTS</a>",
+          "title2": "<a href=\"page1.html#testimonials3-1k\">ABOUT ACTS</a>",
           "text21": "",
           "text22": "",
           "text23": "",
           "text24": "",
           "text25": "",
-          "title3": "<a href=\"index.html#header7-w\">ENGLISH SECOND LANGUAGE (ESL)</a>",
+          "title3": "<a href=\"page1.html#header7-1i\">ENGLISH SECOND LANGUAGE (ESL)</a>",
           "text31": "",
           "text32": "",
           "text33": "",
@@ -1001,11 +1001,11 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "จะดีมั๊ยถ้าลูกเก่งภาษาพร้อมเอาตัวรอดได้ ?",
+                "title": "Is it beneficial for your child to earn a diploma from a Thai school and a US school at the same time?",
                 "overlay": true,
                 "overlayOpacity": "0.4",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">เรื่องราวทั้งหมด</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#testimonials3-1k\" data-toolbar=\"-mbrBtnMove\">learn more</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
@@ -1016,11 +1016,11 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "จะดีมั๊ยถ้าลูกคุณเก่งภาษาอังกฤษ เหมือนเจ้าของภาษา?",
+                "title": "Do you want your child to have better English skills like native English speakers?",
                 "overlay": true,
                 "overlayOpacity": "0.6",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">ทำไมต้อง ACTS?</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#features4-1e\" data-toolbar=\"-mbrBtnMove\">Why ACTS?</a> ",
                 "overlayColor": "#000000"
               },
               {
@@ -1032,10 +1032,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "จะดีมัยถ้าลูกได้เรียนรู้ ทักษะการใช้ชีวิตมากขึ้น?&nbsp;",
+                "title": "Do you want your child to improve “Life Skills” for his/her future?&nbsp;",
                 "overlay": true,
                 "overlayOpacity": "0.4",
-                "text": "เพิ่มการพึ่งพาตัวเอง การรับผิดชอบ และการบริหารเวลา",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a>  "
               }
             ]
@@ -1051,7 +1051,8 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#ecf0f1"
+              "color": "#ecf0f1",
+              "font-size": "36px"
             },
             ".btn": {
               "font-size": "16px"
@@ -1104,7 +1105,7 @@
           },
           "title": "\"Learning today, leading tomorrow\"",
           "text": "•\tแห่งเดียวในไทย ที่สามารถจัดแผนการเรียนส่วนบุคคลที่เหมาะกับลูกคุณมากที่สุด\n<br>•\tแห่งเดียวในไทยที่ร่วมมือกับ <b>JT King Academy &amp; Western Christian Academy</b> (ซึ่งได้การรับรอง) ที่สามารถออกประกาศนียบัตร <b>High School</b> ของอเมริกาได้\n<br>•\tเรามีครูที่มีประสบการณ์การสอน และการวางระบบหลักสูตรจาก อเมริกามากกว่า <b>20</b> ปี มาช่วยเสริมสร้างทักษะภาษาอังกฤษและทักษะชีวิต ให้ลูกคุณเพื่อใช้ในการเรียนรู้ตลอดชีวิต&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">คลิกดูเหตุผลเลย</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#features4-2\" data-toolbar=\"-mbrBtnMove\">Why ACTS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1116,13 +1117,13 @@
           "_styles": {
             ".mbr-section-title": {
               "font-weight": "700",
-              "font-size": "60px"
+              "font-size": "46px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
               "letter-spacing": "2px",
               "color": "#fff",
-              "font-size": "19px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1147,15 +1148,15 @@
             "overlayColor": "#036781",
             "overlayOpacity": 0.9
           },
-          "title": "\"ACTS\" ช่วยลูกคุณได้เพราะ",
+          "title": "\"ACTS\" can help your children because...",
           "title1": "Bootstrap 4",
-          "subtitle1": "แห่งเดียวในไทย ที่สามารถจัดแผนการเรียนส่วนบุคคลที่เหมาะกับลูกคุณมากที่สุด",
+          "subtitle1": "The first education center in Thailand that is able to provide individualized learning plan for your child.&nbsp;",
           "caption1": "",
           "title2": "Responsive",
-          "subtitle2": "แห่งเดียวในไทยที่ร่วมมือกับ JT King Academy &amp; Western Christian Academy (ซึ่งได้การรับรอง) ที่สามารถออกประกาศนียบัตร High School ของอเมริกาได้",
+          "subtitle2": "The only education center in Thailand that is in partnership with JT King Academy &amp; Western Christian Academy (Accredited) in USA that will be able to issue US High School Diploma.",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
-          "subtitle3": "เรามีครูที่มีประสบการณ์การสอน และการวางระบบหลักสูตรจาก อเมริกามากกว่า 20 ปี มาช่วยเสริมสร้างทักษะภาษาอังกฤษและทักษะชีวิต ให้ลูกคุณเพื่อใช้ในการเรียนรู้ตลอดชีวิต",
+          "subtitle3": "Experienced and qualified professionals/educators from the USA and around the world, who will teach and support students to improve their English and life skills and prepare students for life-long learning.",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -1394,7 +1395,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features4-1e\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#testimonials3-1k\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-1i\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Thai</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials3-16\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">English</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features4-1e\">Why ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#testimonials3-1k\">About ACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-1i\">ESL Assessment<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ไทย</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2\">ทำไมต้อง ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials3-16\">ความเป็นมาของ ACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">การวัดระดับ ESL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+6619974141\">0619974141</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1430,7 +1431,7 @@
               "letter-spacing": "2px",
               "color": "#fff",
               "text-align": "center",
-              "font-size": "24px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1525,29 +1526,29 @@
               "color": "#fff"
             }
           },
-          "title": "สิ่งที่นักเรียน ACTS จะได้",
+          "title": "Beneficial for enrolling in ACTS",
           "title1": "Bootstrap 4",
-          "subtitle1": "ทักษะภาษาอังกฤษ (ฟัง/พูด/อ่าน/เขียน) เก่งขึ้น",
+          "subtitle1": "Improve English Skills in: Speaking, Listening, Reading and Writing.",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "title2": "Responsive",
-          "subtitle2": "ได้เรียนหลักสูตรที่เหมาะกับผู้เรียนโดยเฉพาะ",
+          "subtitle2": "Tailor made classes to meet your child’s English learning level.",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "title3": "Web Fonts",
-          "subtitle3": "ครูและเจ้าหน้าที่ดูแลนักเรียนแต่ละคนอย่างใกล้ชิด&nbsp;",
+          "subtitle3": "Caring Teachers and Staff.&nbsp;",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "title4": "Unlimited Sites",
-          "subtitle4": "สามารถกำหนดระยะเวลาในการเรียนแต่ละระดับชั้นได้ด้วยตัวเอง&nbsp;",
+          "subtitle4": "Students can study at their own pace.",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "title5": "Trendy Website Blocks",
-          "subtitle5": "เพิ่มทักษะการพึ่งพาตัวเอง การบริหารเวลาและความรับผิดชอบ",
+          "subtitle5": "Attain life skills such as:  Responsibility, Independence and Time management.",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "title6": "Host Anywhere",
-          "subtitle6": "มีสถานที่และตารางให้เลือกเรียน",
+          "subtitle6": "Flexible schedule at various locations",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "alias": "colorm/components",
@@ -1604,9 +1605,9 @@
             }
           },
           "title": "English as Second language&nbsp;<br>(ESL)",
-          "subtitle": "อยากรู้ว่าภาษาอังกฤษอยู่ระดับไหน",
-          "text": "หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน<br>ทศสอบ <b>ESL Level </b>พร้อมให้คำปรึกษาในการพัฒนา ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">รายละเอียด</a>",
+          "subtitle": "To Know your english skill level",
+          "text": "Join the assessment now to know what ESL you are with consultation service&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#accordion1-1l\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1720,25 +1721,25 @@
               "family": "et-line"
             }
           },
-          "title": "บริการของเรา",
+          "title": "Services",
           "title1": "Bootstrap 4",
-          "subtitle1": "การสอน",
+          "subtitle1": "Teaching",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title2": "Responsive",
-          "subtitle2": "การติว",
+          "subtitle2": "Tutoring",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title3": "Web Fonts",
-          "subtitle3": "ที่ปรึกษาศึกษาต่อต่างประเทศ",
+          "subtitle3": "Consulting",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title4": "Unlimited Sites",
-          "subtitle4": "ที่ปรึกษาวางแผนหลักสูตร",
+          "subtitle4": "Counseling",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title5": "Trendy Website Blocks",
-          "subtitle5": "โค้ชการสอนสำหรับครูสอนภาษาอังกฤษ",
+          "subtitle5": "Coaching",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title6": "Host Anywhere",
@@ -1784,60 +1785,13 @@
           "title": "พีระพงศ์ ว่องกุลวัฒน์",
           "subtitle": "ผู้ก่อตั้ง <b>ACTS</b>",
           "text": "เหตุผลที่ <b>ACTS</b> ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง <b>2</b> อย่างโดยไม่ต้องจำใจเลือก\n<br><br>\"เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน\" &nbsp;&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#accordion1-17\" data-toolbar=\"-mbrBtnMove\">รายละเอียด</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#accordion1-1o\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-1k"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "tabs": "3",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": "0.4"
-          },
-          "title": "Accordion FAQ",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
-          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseOneaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>ความเป็นมาของ \"ACTS\"</a>",
-          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseTwoaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">คอร์สเรียน</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-17-init\" data-core=\"\" href=\"#collapseThreeaccordion1-17\" aria-expanded=\"true\" aria-controls=\"collapseThree\">การสอบวัดระดับ ESL</a>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p>ในฐานะที่เป็นคุณพ่อลูกสอง ผมก็เหมือนคุณพ่อทั่วไปที่รักลูก และต้องการให้สิ่งที่ดีที่สุดให้กับลูกๆ เท่าที่ความสามารถจะทำได้ โดยเฉพาะเรื่องการศึกษา เพราะเชื่อว่า การศึกษามีความสำคัญกับโอกาสต่างๆ ที่จะเข้ามาในชีวิตลูกๆ และ อนาคตของลูกๆ จะประสบความสำเร็จหรือไม่นั่นการศึกษาก็เป็นส่วนหนึ่งที่สำคัญ \n</p><p>สำหรับผมแล้ว ความหมายของการศึกษานั่น ผมแบ่งเป็น 2 ส่วนหลักๆ คือ ศึกษาในด้านทักษะการใช้ชีวิต และ ความรู้วิชาการ \n</p><p>เมื่อก่อนผมยังไม่ได้เห็นความสำคัญของการมีทักษะการใช้ชีวิต จึงให้ความสำคัญด้านวิชาการเพียงอย่างเดียว ผมมองว่า “ภาษา” (ในที่นี่ผมหมายถึงภาษาอังกฤษและจีน) เป็นใบเบิกทางของความรู้ที่มีอยู่ทั่วโลก ดังนั่น “โรงเรียนนานาชาติ” จึงเป็นทางเลือกที่ผมคิดว่าเหมาะสมแล้ว และให้ลูกคนโตเรียนต่อเนื่องมา 6 ปี ซึ่งก็เป็นค่าใช้จ่ายที่ไม่น้อยเลยทีเดียว และการที่ได้อยู่ใน โรงเรียนนานาชาติมานาน ก็เริ่มจะรู้ว่า โรงเรียนนานาชาติในไทย แต่ละที่ก็จะมีมาตรฐานหลักสูตรการเรียนการสอนที่ต่างกันออกไป ทำให้เกิดคำถามขึ้นมาว่า “ลูกเราจบโรงเรียนนานาชาติในไทย จะได้การยอมรับจากเจ้าของหลักสูตรนานาชาติแท้ๆ (เช่นระบบอเมริกัน ระบบอังกฤษ หรือ ระบบสิงคโปร์) มากน้อยเพียงใด” หากไม่ได้รับการยอมรับเนื่องจากเนื่องจากเหตุผลใดๆ ก็ตาม การลงทุนให้ลูกๆ ที่ผ่านมามันคุ้มค่าแล้วหรือไม่ \n</p><p>พอเวลาผ่านไป ผมก็ได้เรียนรู้การใช้ชีวิตมากขึ้น ได้เปลี่ยน Mindset หลายๆ อย่าง จึงทำให้เห็นความสำคัญของการมีทักษะการใช้ชีวิตว่าเป็นสิ่งที่จำเป็นลำดับต้นๆ เลยก็ว่าได้ ได้ไปเยี่ยมชม โรงเรียนระบบไทยแนวบูรณาการ ที่เน้นฝึกทักษะการใช้ชีวิต \n</p><p>จึงเกิดความรู้สึก “รักพี่เสียดายน้อง” \n</p><p>ทักษะการใช้ชีวิตมีความสำคัญก็จริง แต่ ภาษาก็มีความสำคัญไม่แพ้กัน อยากได้ทั้ง สองอย่างในเวลาเดียวกัน แต่เท่าที่ดูตอนนี้ ยังไม่มีโรงเรียนไหน ตอบโจทย์ตรงนี้ได้เลย จะให้เลือกอย่างใดอย่างหนึ่งก็เลือกไม่ถูกจริงๆ คือต้องบอกว่าไม่อยากเลือก แต่ต้องการทั้ง 2 อย่างพร้อมๆ กันเลย เพื่ออนาคตที่ดีของลูกๆ \n</p><p>ยุค IT ทำให้โลกกำลังเปลี่ยนไปอย่างรวดเร็ว ระบบการศึกษาก็เช่นกัน การเรียนการสอนแบบ online เข้ามามีบทบาทมากขึ้นเรื่อยๆ ส่วนตัวมองว่า ภายใน 10 ปี ระบบการศึกษาไทยจะมีการปฏิวัติใหม่ (ความจริงคือระบบการศึกษาในประเทศที่พัฒนาได้เปลี่ยนแปลงไปแล้ว) \n</p><p>ยุคนี้เราสามารถเข้าเรียนหลักสูตรการเรียนการสอน (เช่นหลักสูตรอเมริกัน) ผ่าน online (โดยมีครูที่มีประสบการณ์คอยเป็นพี่เลี้ยง) ได้ในไทยโดยใช้ช่วงนอกเวลาเรียน และเรียนจบแล้ว ได้รับการยอมรับเหมือนเรียนจบที่ โรงเรียนใน อเมริกา ด้วยค่าเรียนที่ถูกกว่าโรงเรียนนานาชาติในไทย \n</p><p>นี้คือเหตุผลที่ ACTS ก่อตั้งขึ้นมา เพื่อเปิดโอกาสให้เด็กไทย สามารถเข้าถึงการเรียนการสอนระดับโลกที่ได้รับการยอมรับจากทั่วโลก ในราคาที่เข้าถึง ทำให้มีเวลาสามารถเข้าเรียนทักษะชีวิตในระบบไทย ได้ทั้ง 2 อย่างโดยไม่ต้องจำใจเลือก \n</p><p>เมื่อเด็กไทยได้รับการศึกษาระดับโลก ก็ย่อมสร้างโอกาสที่สดใสให้กับตัวเองและประเทศชาติอย่างแน่นอน &nbsp;&nbsp;</p>",
-          "text2": "<p>•\tEnglish as Second language (ESL level 1-5) หลักสูตรการเรียนภาษาอังกฤษซึ่งเป็นภาษาที่สองของผู้เรียน \r</p><p>•\tการเรียน ระดับประถม มัธยมตามหลักสูตรอเมริกัน\r</p><p>•\tภาษาอังกฤษ สำหรับธุรกิจ \r</p><p>•\tภาษาอังกฤษสำหรับ อาชีพเฉพาะทาง\r</p><p>•\tภาษาอังกฤษสำหรับ การเตรียมสอบ ( Toeic / Toefl )\r</p><p>•\tภาษาอังกฤษ “ตามความต้องการ” (Tailor Made)\r</p>",
-          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "accordion1",
-          "_styles": {
-            "P": {
-              "color": "#ecf0f1",
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "accordion1-1l"
         },
         {
           "_styles": {
@@ -1880,19 +1834,19 @@
               "size": 0
             }
           },
-          "title1": "<a href=\"index.html#features4-2\">WHY aCTS</a>",
+          "title1": "<a href=\"page1.html#features4-1e\">WHY aCTS</a>",
           "text11": "",
           "text12": "",
           "text13": "",
           "text14": "",
           "text15": "",
-          "title2": "<a href=\"index.html#accordion1-17\">ABOUT ACTS</a>",
+          "title2": "<a href=\"page1.html#testimonials3-1k\">ABOUT ACTS</a>",
           "text21": "",
           "text22": "",
           "text23": "",
           "text24": "",
           "text25": "",
-          "title3": "<a href=\"index.html#header7-w\">ENGLISH SECOND LANGUAGE (ESL)</a>",
+          "title3": "<a href=\"page1.html#header7-1i\">ENGLISH SECOND LANGUAGE (ESL)</a>",
           "text31": "",
           "text32": "",
           "text33": "",
@@ -1907,6 +1861,47 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extaccordion1-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Accordion FAQ",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1o-init\" data-core=\"\" href=\"#collapseOneaccordion1-1o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>ABOUT \"ACTS\"</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1o-init\" data-core=\"\" href=\"#collapseTwoaccordion1-1o\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Courses</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1o-init\" data-core=\"\" href=\"#collapseThreeaccordion1-1o\" aria-expanded=\"false\" aria-controls=\"collapseThree\">ESL Assement</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_anchor": "accordion1-1o"
         }
       ]
     }
