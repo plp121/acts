@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-24_2328-clone",
-    "currentPage": "eng.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -972,7 +972,7 @@
         }
       ]
     },
-    "eng.html": {
+    "page1.html": {
       "settings": {
         "title": "Eng",
         "meta_descr": "",
